@@ -1,0 +1,114 @@
+[
+
+{"id":"000094", "category": "building", "itemTitle":"Демонтаж кирпичного здания","itemCount":0,"itemUnit":"м3","itemPrice":"185","itemTotalPrice":0},
+{"id":"000095", "category": "building", "itemTitle":"Демонтаж деревянного дома","itemCount":0,"itemUnit":"м3","itemPrice":"255","itemTotalPrice":0},
+{"id":"000096", "category": "building", "itemTitle":"Демонтаж газобетонного/кирпичного здания","itemCount":0,"itemUnit":"м3","itemPrice":"185","itemTotalPrice":0},
+{"id":"000097", "category": "building", "itemTitle":"Демонтаж бетонного строения","itemCount":0,"itemUnit":"м3","itemPrice":"450","itemTotalPrice":0},
+{"id":"000098", "category": "building", "itemTitle":"Демонтаж аварийного здания","itemCount":0,"itemUnit":"м3","itemPrice":"200","itemTotalPrice":0},
+{"id":"000099", "category": "building", "itemTitle":"Демонтаж бани","itemCount":0,"itemUnit":"м3","itemPrice":"150","itemTotalPrice":0},
+{"id":"000100", "category": "building", "itemTitle":"Демонтаж кровли","itemCount":0,"itemUnit":"м3","itemPrice":"200","itemTotalPrice":0},
+{"id":"000101", "category": "building", "itemTitle":"Демонтаж фундамента","itemCount":0,"itemUnit":"м3","itemPrice":"400","itemTotalPrice":0},
+{"id":"000102", "category": "building", "itemTitle":"Демонтаж части здания","itemCount":0,"itemUnit":"м3","itemPrice":"600","itemTotalPrice":0},
+{"id":"000103", "category": "building", "itemTitle":"Демонтаж ветхого здания","itemCount":0,"itemUnit":"м3","itemPrice":"200","itemTotalPrice":0},
+{"id":"000104", "category": "building", "itemTitle":"Демонтаж здания до 15 метров","itemCount":0,"itemUnit":"м3","itemPrice":"230","itemTotalPrice":0},
+{"id":"000105", "category": "building", "itemTitle":"Демонтаж сооружения от 15 до 30 метров","itemCount":0,"itemUnit":"м3","itemPrice":"от 1000","itemTotalPrice":0},
+{"id":"000106", "category": "building", "itemTitle":"Снос домов хрущевской постройки","itemCount":0,"itemUnit":"м3","itemPrice":"от 400","itemTotalPrice":0},
+{"id":"000107", "category": "building", "itemTitle":"Снос домов сталинской постройки","itemCount":0,"itemUnit":"м3","itemPrice":"от 350","itemTotalPrice":0},
+{"id":"000108", "category": "building", "itemTitle":"Демонтаж водонапорной башни","itemCount":0,"itemUnit":"м3","itemPrice":"от 12000","itemTotalPrice":0},
+{"id":"000109", "category": "building", "itemTitle":"Демонтаж дымовой трубы","itemCount":0,"itemUnit":"м3","itemPrice":"от 16000","itemTotalPrice":0},
+{"id":"000110", "category": "building", "itemTitle":"Демонтаж кирпичной башни","itemCount":0,"itemUnit":"м3","itemPrice":"от 14000","itemTotalPrice":0},
+
+
+{"id":"000111", "category": "partition", "itemTitle":"Сбивка старой штукатурки со стен","itemCount":0,"itemUnit":"m2","itemPrice":"135","itemTotalPrice":0},
+{"id":"000112", "category": "partition", "itemTitle":"Удаление старой шпатлевки","itemCount":0,"itemUnit":"m2","itemPrice":"65","itemTotalPrice":0},
+{"id":"000113", "category": "partition", "itemTitle":"Удаление старых обоев","itemCount":0,"itemUnit":"m2","itemPrice":"60","itemTotalPrice":0},
+{"id":"000114", "category": "partition", "itemTitle":"Демонтаж керамической плитки со стен","itemCount":0,"itemUnit":"m2","itemPrice":"85","itemTotalPrice":0},
+{"id":"000115", "category": "partition", "itemTitle":"Демонтаж встроенных шкафов, ниш","itemCount":0,"itemUnit":"m2","itemPrice":"100","itemTotalPrice":0},
+{"id":"000116", "category": "partition", "itemTitle":"Демонтаж облицовки стен из ДСП, фанеры, оргалита","itemCount":0,"itemUnit":"m2","itemPrice":"100","itemTotalPrice":0},
+{"id":"000117", "category": "partition", "itemTitle":"Демонтаж деревянных перегородок","itemCount":0,"itemUnit":"m2","itemPrice":"120","itemTotalPrice":0},
+{"id":"000118", "category": "partition", "itemTitle":"Демонтаж обшивки стен из ГКЛ на металокаркасе","itemCount":0,"itemUnit":"m2","itemPrice":"125","itemTotalPrice":0},
+{"id":"000119", "category": "partition", "itemTitle":"Демонтаж обшивки стен из досок, фанеры, вагонки","itemCount":0,"itemUnit":"m2","itemPrice":"100","itemTotalPrice":0},
+{"id":"000120", "category": "partition", "itemTitle":"Демонтаж перегородок из ГКЛ, ГВЛ","itemCount":0,"itemUnit":"m2","itemPrice":"140","itemTotalPrice":0},
+{"id":"000121", "category": "partition", "itemTitle":"Демонтаж перегородок из газобетона","itemCount":0,"itemUnit":"m2","itemPrice":"200","itemTotalPrice":0},
+{"id":"000122", "category": "partition", "itemTitle":"Демонтаж стен из асбестоцементных плит","itemCount":0,"itemUnit":"m2","itemPrice":"250","itemTotalPrice":0},
+{"id":"000123", "category": "partition", "itemTitle":"Демонтаж стен толщиной 1,5 кирпича","itemCount":0,"itemUnit":"m2","itemPrice":"1000","itemTotalPrice":0},
+{"id":"000124", "category": "partition", "itemTitle":"Демонтаж стен толщиной 1 кирпич","itemCount":0,"itemUnit":"m2","itemPrice":"700","itemTotalPrice":0},
+{"id":"000125", "category": "partition", "itemTitle":"Демонтаж стен толщиной полкирпича","itemCount":0,"itemUnit":"m2","itemPrice":"400","itemTotalPrice":0},
+{"id":"000126", "category": "partition", "itemTitle":"Демонтаж стен из железобетона толщиной 8см","itemCount":0,"itemUnit":"m2","itemPrice":"500","itemTotalPrice":0},
+{"id":"000127", "category": "partition", "itemTitle":"Демонтаж стен из железобетона толщиной 16см","itemCount":0,"itemUnit":"m2","itemPrice":"1000","itemTotalPrice":0},
+{"id":"000128", "category": "partition", "itemTitle":"Демонтаж стен из железобетона толщиной 21см","itemCount":0,"itemUnit":"m2","itemPrice":"1350","itemTotalPrice":0},
+{"id":"000129", "category": "partition", "itemTitle":"Зачистка стен от шпаклёвки, краски","itemCount":0,"itemUnit":"m2","itemPrice":"80","itemTotalPrice":0},
+{"id":"000130", "category": "partition", "itemTitle":"Зачистка кирпичных стен","itemCount":0,"itemUnit":"m2","itemPrice":"250","itemTotalPrice":0},
+
+
+{"id":"000131", "category": "ceiling", "itemTitle":"Удаление старых обоев с потолка","itemCount":0,"itemUnit":"m2","itemPrice":"30","itemTotalPrice":0},
+{"id":"000132", "category": "ceiling", "itemTitle":"Сбивка старой штукатурки с потолка","itemCount":0,"itemUnit":"m2","itemPrice":"125","itemTotalPrice":0},
+{"id":"000133", "category": "ceiling", "itemTitle":"Размывка извести, мела","itemCount":0,"itemUnit":"m2","itemPrice":"80","itemTotalPrice":0},
+{"id":"000134", "category": "ceiling", "itemTitle":"Очистка потолка от шпатлевки или краски","itemCount":0,"itemUnit":"m2","itemPrice":"80","itemTotalPrice":0},
+{"id":"000135", "category": "ceiling", "itemTitle":"Демонтаж потолков из ГКЛ с разборкой каркаса","itemCount":0,"itemUnit":"m2","itemPrice":"145","itemTotalPrice":0},
+{"id":"000136", "category": "ceiling", "itemTitle":"Демонтаж реечных потолков","itemCount":0,"itemUnit":"m2","itemPrice":"90","itemTotalPrice":0},
+{"id":"000137", "category": "ceiling", "itemTitle":"Демонтаж подшивных потолков из ГКЛ","itemCount":0,"itemUnit":"m2","itemPrice":"125","itemTotalPrice":0},
+{"id":"000138", "category": "ceiling", "itemTitle":"Демонтаж деревянной обшивки потолка","itemCount":0,"itemUnit":"m2","itemPrice":"125","itemTotalPrice":0},
+{"id":"000139", "category": "ceiling", "itemTitle":"Демонтаж деревянных перекрытий","itemCount":0,"itemUnit":"m2","itemPrice":"900","itemTotalPrice":0},
+{"id":"000140", "category": "ceiling", "itemTitle":"Демонтаж железобетонных перекрытий","itemCount":0,"itemUnit":"m2","itemPrice":"1800","itemTotalPrice":0},
+{"id":"000141", "category": "ceiling", "itemTitle":"Демонтаж лепнины","itemCount":0,"itemUnit":"пог.м.","itemPrice":"80","itemTotalPrice":0},
+{"id":"000142", "category": "ceiling", "itemTitle":"Демонтаж подвесных потолков Армстронг","itemCount":0,"itemUnit":"m2","itemPrice":"70","itemTotalPrice":0},
+{"id":"000143", "category": "ceiling", "itemTitle":"Демонтаж натяжного потолка","itemCount":0,"itemUnit":"m2","itemPrice":"102","itemTotalPrice":0},
+
+
+{"id":"000144", "category": "floor", "itemTitle":"Демонтаж цементно-песчаной стяжки до 5см","itemCount":0,"itemUnit":"m2","itemPrice":"175","itemTotalPrice":0},
+{"id":"000145", "category": "floor", "itemTitle":"Демонтаж цементно-песчаной стяжки до 10см","itemCount":0,"itemUnit":"m2","itemPrice":"250","itemTotalPrice":0},
+{"id":"000146", "category": "floor", "itemTitle":"Демонтаж ламината","itemCount":0,"itemUnit":"m2","itemPrice":"125","itemTotalPrice":0},
+{"id":"000147", "category": "floor", "itemTitle":"Демонтаж ламината","itemCount":0,"itemUnit":"m2","itemPrice":"125","itemTotalPrice":0},
+{"id":"000148", "category": "floor", "itemTitle":"Демонтаж паркета","itemCount":0,"itemUnit":"m2","itemPrice":"125","itemTotalPrice":0},
+{"id":"000149", "category": "floor", "itemTitle":"Демонтаж кафеля, керамогранита","itemCount":0,"itemUnit":"m2","itemPrice":"125","itemTotalPrice":0},
+{"id":"000150", "category": "floor", "itemTitle":"Демонтаж деревянного пола","itemCount":0,"itemUnit":"m2","itemPrice":"150","itemTotalPrice":0},
+{"id":"000151", "category": "floor", "itemTitle":"Демонтаж плинтуса","itemCount":0,"itemUnit":"пог.м.","itemPrice":"30","itemTotalPrice":0},
+{"id":"000152", "category": "floor", "itemTitle":"Демонтаж пола на лагах","itemCount":0,"itemUnit":"m2","itemPrice":"12","itemTotalPrice":0},
+{"id":"000153", "category": "floor", "itemTitle":"Демонтаж приклеенного ковролина","itemCount":0,"itemUnit":"m2","itemPrice":"80","itemTotalPrice":0},
+{"id":"000154", "category": "floor", "itemTitle":"Демонтаж не приклеенного ковролина","itemCount":0,"itemUnit":"m2","itemPrice":"60","itemTotalPrice":0},
+{"id":"000155", "category": "floor", "itemTitle":"Демонтаж приклеенного линолиума","itemCount":0,"itemUnit":"m2","itemPrice":"80","itemTotalPrice":0},
+{"id":"000156", "category": "floor", "itemTitle":"Демонтаж не приклеенного линолиума","itemCount":0,"itemUnit":"m2","itemPrice":"60","itemTotalPrice":0},
+{"id":"000157", "category": "floor", "itemTitle":"Демонтаж старой подложки, оргалита","itemCount":0,"itemUnit":"m2","itemPrice":"50","itemTotalPrice":0},
+{"id":"000158", "category": "floor", "itemTitle":"Удаление гидроизоляции","itemCount":0,"itemUnit":"m2","itemPrice":"80","itemTotalPrice":0},
+
+
+
+{"id":"000159", "category": "plumbing", "itemTitle":"Демонтаж ванной","itemCount":0,"itemUnit":"шт.","itemPrice":"550","itemTotalPrice":0},
+{"id":"000160", "category": "plumbing", "itemTitle":"Демонтаж ванны чугунной","itemCount":0,"itemUnit":"шт.","itemPrice":"1100","itemTotalPrice":0},
+{"id":"000161", "category": "plumbing", "itemTitle":"Демонтаж умывальника","itemCount":0,"itemUnit":"шт.","itemPrice":"250","itemTotalPrice":0},
+{"id":"000162", "category": "plumbing", "itemTitle":"Демонтаж унитаза, биде","itemCount":0,"itemUnit":"шт.","itemPrice":"300","itemTotalPrice":0},
+{"id":"000163", "category": "plumbing", "itemTitle":"Демонтаж фановых труб, стояка","itemCount":0,"itemUnit":"пог.м.","itemPrice":"200","itemTotalPrice":0},
+{"id":"000164", "category": "plumbing", "itemTitle":"Демонтаж металлических труб","itemCount":0,"itemUnit":"пог.м.","itemPrice":"120","itemTotalPrice":0},
+{"id":"000165", "category": "plumbing", "itemTitle":"Демонтаж водопроводных труб","itemCount":0,"itemUnit":"пог.м.","itemPrice":"180","itemTotalPrice":0},
+{"id":"000166", "category": "plumbing", "itemTitle":"Демонтаж радиатора","itemCount":0,"itemUnit":"шт.","itemPrice":"300","itemTotalPrice":0},
+{"id":"000167", "category": "plumbing", "itemTitle":"Демонтаж труб отопления","itemCount":0,"itemUnit":"пог.м.","itemPrice":"150","itemTotalPrice":0},
+{"id":"000168", "category": "plumbing", "itemTitle":"Демонтаж крана, смесителя, редуктора, фильтра","itemCount":0,"itemUnit":"шт.","itemPrice":"200","itemTotalPrice":0},
+
+
+
+
+{"id":"000169", "category": "electric", "itemTitle":"Демонтаж электрического щитка","itemCount":0,"itemUnit":"шт.","itemPrice":"550","itemTotalPrice":0},
+{"id":"000170", "category": "electric", "itemTitle":"Демонтаж электроплит","itemCount":0,"itemUnit":"шт.","itemPrice":"400","itemTotalPrice":0},
+{"id":"000171", "category": "electric", "itemTitle":"Демонтаж светильника","itemCount":0,"itemUnit":"шт.","itemPrice":"200","itemTotalPrice":0},
+{"id":"000172", "category": "electric", "itemTitle":"Демонтаж розеток, выключателей","itemCount":0,"itemUnit":"шт.","itemPrice":"50","itemTotalPrice":0},
+{"id":"000173", "category": "electric", "itemTitle":"Демонтаж электропроводки","itemCount":0,"itemUnit":"m2","itemPrice":"20","itemTotalPrice":0},
+
+
+{"id":"000174", "category": "aperture", "itemTitle":"Устройство проема в не несущей стене толщиной до 10 см","itemCount":0,"itemUnit":"пог.м.","itemPrice":"400","itemTotalPrice":0},
+{"id":"000175", "category": "aperture", "itemTitle":"Устройство проема в гипсокартонной перегородке","itemCount":0,"itemUnit":"пог.м.","itemPrice":"700","itemTotalPrice":0},
+{"id":"000176", "category": "aperture", "itemTitle":"Устройство проёма в армированном бетоне толщиной 14 см","itemCount":0,"itemUnit":"пог.м.","itemPrice":"1500","itemTotalPrice":0},
+{"id":"000177", "category": "aperture", "itemTitle":"Устройство проёма в армированном бетоне толщиной 18 см","itemCount":0,"itemUnit":"пог.м.","itemPrice":"1700","itemTotalPrice":0},
+{"id":"000178", "category": "aperture", "itemTitle":"Расширение проема в ж.б. стене толщиной более 10 см","itemCount":0,"itemUnit":"пог.м.","itemPrice":"500","itemTotalPrice":0},
+{"id":"000179", "category": "aperture", "itemTitle":"Расширение проема в ж.б. стене толщиной более 10 см","itemCount":0,"itemUnit":"пог.м.","itemPrice":"450","itemTotalPrice":0},
+{"id":"000180", "category": "aperture", "itemTitle":"Расширение проема в кирпичной стене толщиной до 10 см","itemCount":0,"itemUnit":"пог.м.","itemPrice":"400","itemTotalPrice":0},
+{"id":"000181", "category": "aperture", "itemTitle":"Усиление стандартного проема швеллером, уголком","itemCount":0,"itemUnit":"пог.м.","itemPrice":"400","itemTotalPrice":0},
+{"id":"000182", "category": "aperture", "itemTitle":"Устройство арки в не несущей стене толщиной до 10 см","itemCount":0,"itemUnit":"пог.м.","itemPrice":"1000","itemTotalPrice":0},
+
+
+{"id":"000183", "category": "garbage", "itemTitle":"Газель 6 м3 (1,5 тонны)","itemCount":0,"itemUnit":"час","itemPrice":"1250","itemTotalPrice":0},
+{"id":"000184", "category": "garbage", "itemTitle":"Камаз (Самосвал) 6 м3 (3 тонны)","itemCount":0,"itemUnit":"час","itemPrice":"2000","itemTotalPrice":0},
+{"id":"000185", "category": "garbage", "itemTitle":"Контейнер 27 м3 (10 тонн)","itemCount":0,"itemUnit":"час","itemPrice":"3750","itemTotalPrice":0}
+
+]
+
